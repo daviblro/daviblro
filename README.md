@@ -1,5 +1,3 @@
-# Hello, I'm Davi Balieiro! 👋
-
 ## 💻 Computer Engineering Graduate | Full Stack Developer 
 
 <p align="center">
